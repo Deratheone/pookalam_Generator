@@ -1,6 +1,6 @@
 # Code-a-Pookalam
 
-Interactive 3D pookalam generator for Onam celebration.
+Interactive 3D pookalam generator for tinkerhub code-a-pookalam hackathon.
 
 ## Technologies Used
 
@@ -11,5 +11,6 @@ Interactive 3D pookalam generator for Onam celebration.
 - **OrbitControls** - Mouse interaction for 3D navigation
 
 ## Usage
+
 
 Open `index.html` in any modern web browser.
